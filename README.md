@@ -18,3 +18,7 @@
   <a href = "mailto:alcantara.ta2213@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tiago-alcantara-660608222" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+ ##
+ 
+ ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/98988893/196935110-b82b1c2f-bf56-48ba-a95b-0a442943f3ae.gif)
+
