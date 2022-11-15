@@ -1,4 +1,4 @@
-# ATÉ O DIA 20\11, ESTAREI MAIS FOCADO NO VESTIBULAR, POR ISSO NÃO ESTOU FAZENDO COMMITS.
+# ESTOU FAZENDO PROVA O VESTIBULAR, POR ISSO NÃO ESTOU FAZENDO COMMITS.
 ### Oii, eu sou o Tiago Alcantara 👋
 - 🌱 estou cursando ciência da computação
 <div align="center">
