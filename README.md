@@ -1,4 +1,3 @@
-# ESTOU FAZENDO PROVA PARA O VESTIBULAR, POR ISSO NÃO ESTOU FAZENDO COMMITS.
 ### Oii, eu sou o Tiago Alcantara 👋
 - 🌱 estou cursando ciência da computação
 <div align="center">
