@@ -1,4 +1,4 @@
-#  estou refazendo meus conceitos e aprofundadando nos estudos.
+# Aprofundadando nos estudos.
 ### Oii, eu sou o Tiago Alcantara 👋
 - 🌱 estou cursando ciência da computação
 <div align="center">
