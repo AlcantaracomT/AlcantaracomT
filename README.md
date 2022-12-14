@@ -1,4 +1,4 @@
-# Estou estudando.
+# Estudando.
 ### Oii, eu sou o Tiago Alcantara 👋
 - 🌱 estou cursando ciência da computação
 <div align="center">
