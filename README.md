@@ -4,7 +4,7 @@
 
 Olá, eu sou Tiago Alcantara, estudante de Ciência da Computação na Universidade Estadual de Santa Cruz (UESC).
 
-## Sobre Mim
+## Sobre
 Atualmente, estou dedicando meu tempo e esforço para explorar as oportunidades de aprendizado que a área da Tecnologia oferece. Estou particularmente interessado em back end, e estou empolgado em aplicar meus conhecimentos em projetos práticos.
 
 ## Formação Acadêmica
