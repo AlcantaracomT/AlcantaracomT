@@ -13,14 +13,14 @@ Atualmente, estou dedicando meu tempo e esforço para explorar as oportunidades 
 ---
 
 ### 🎓 **Formação Acadêmica**
-- **Universidade:** Universidade Estadual de Santa Cruz (UESC)  
-- **Curso:** Ciência da Computação  
-- **Ingresso:** 2023  
+ **Universidade:** Universidade Estadual de Santa Cruz (UESC)  
+ **Curso:** Ciência da Computação  
+ **Ingresso:** 2023  
 
 ---
 
 ### 🚀 **Projetos Recentes**
-- Em andamento... *(Fique atento para atualizações!)*
+ Em andamento... *(Fique atento para atualizações!)*
 
 ---
 
@@ -34,8 +34,8 @@ Atualmente, estou dedicando meu tempo e esforço para explorar as oportunidades 
 ---
 
 ### 📫 **Contato**
-- <a href="mailto:alcantara.ta28@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-- <a href="https://www.linkedin.com/in/tiago-alcantara-95999a276/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+ <a href="mailto:alcantara.ta28@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+ <a href="https://www.linkedin.com/in/tiago-alcantara-95999a276/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ---
 
@@ -43,8 +43,3 @@ Atualmente, estou dedicando meu tempo e esforço para explorar as oportunidades 
 Sinta-se à vontade para entrar em contato! Seja para trocar conhecimentos, colaborar em projetos ou explorar novas ideias juntos.
 
 ---
-
-<div align="center">
-<img src="https://github.com/AlcantaracomT/AlcantaracomT/assets/133592283/37f7ea55-209d-4462-a2ad-4667fdd149aa" alt="GIF Pessoal" width="300">
-</div>
--
