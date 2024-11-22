@@ -1,5 +1,5 @@
 ## 🌟 Bem-vindo ao GitHub do Tiago Alcantara!
-#### 🎓 Ciência da Computação | 💻 Desenvolvedor em busca de inovação | 🚀 Apaixonado por tecnologia e aprendizado constante
+#### 🎓 Ciência da Computação | 💻 Desenvolvedor em busca de inovação | 🚀 Aprendizado constante
 
  #### 📈 Objetivos
 
