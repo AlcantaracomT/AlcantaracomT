@@ -4,7 +4,7 @@
  #### 📈 Objetivos
 
 -    Contribuir com projetos open-source.
--    Aprofundar conhecimentos em  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C"> , <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java"> e Segurança de Redes.
+-    Aprofundar conhecimentos em  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C"> , <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java">, <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React"> e Segurança de Redes.
 -    Desenvolver soluções tecnológicas que combinam inovação e usabilidade.
 
  📫 **Contato**
