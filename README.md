@@ -1,11 +1,11 @@
-## 🌟 Bem-vindo ao GitHub do Tiago Alcantara!
-#### 🎓 Ciência da Computação | 💻 Desenvolvedor em busca de inovação | 🚀 Aprendizado constante
+## 🌟 Bem-vindo, eu sou o Tiago Alcantara!
+#### 🎓 Ciência da Computação - UESC
 
  #### 📈 Objetivos
 
 -    Contribuir com projetos open-source.
--    Aprofundar conhecimentos em  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C"> , <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java">, <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React"> e Segurança de Redes.
--    Desenvolver soluções tecnológicas que combinam inovação e usabilidade.
+-    Aprofundar conhecimentos em  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C"> , <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python">, <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React"> e Segurança de Redes.
+-    Evoluir em desenvolvimento back-end e front-end.
 
  📫 **Contato**
  
